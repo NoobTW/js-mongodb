@@ -2,7 +2,7 @@
   "name": "js-mongo",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "index.js",
   "dependencies": {
     "mongodb": "^2.2.11"
   },
